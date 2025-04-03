@@ -16,6 +16,8 @@ To run this project, ensure you have **Microsoft Power BI** installed on your sy
 
 ## Dashboard
 ![Ecommerce_Sales_Insights_page-0001](https://github.com/Shubham-Jadhav-33/Ecommerce_sales.git)
+![Screenshot 2025-04-03 115544](https://github.com/user-attachments/assets/469aa63d-f6cf-4167-af90-305349a57b10)
+
 
 ## Dashboard Insights
 **Key Performance Indicators (KPIs):** Total Profit, Total Sales, Total Quantity, Profit Margin%
